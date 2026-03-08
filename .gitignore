@@ -1,0 +1,22 @@
+# Dataset (too large for GitHub - download from Kaggle)
+Tweets.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+*.env
+env/
+venv/
